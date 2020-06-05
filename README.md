@@ -1,6 +1,6 @@
 # ex1
 Repository
-Clone
+Clone 
 Fork
 Branch
 Commit
