@@ -1,4 +1,4 @@
 # ex1
-Repository
-text
+*Repository
+*text
 
